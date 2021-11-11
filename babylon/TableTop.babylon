@@ -1,0 +1,13 @@
+{"producer":{"name":"Blender","version":"2.93.5","exporter_version":"2.93.4","file":"TableTop.babylon"},
+"autoClear":true,"clearColor":[0.0509,0.0509,0.0509],"gravity":[0,-9.81,0],
+"materials":[{"name":"PlaySurface","id":"PlaySurface","customType":"BABYLON.PBRMaterial","albedo":[0.8,0.0078,0.0829],"emissive":[0,0,0],"reflectivity":[0.5,0.5,0.5],"roughness":0.5,"alpha":1,"transparencyMode":0,"alphaCutOff":0.4,"metallic":0}],
+"meshes":[{"name":"Table","id":"Table","materialId":"PlaySurface","billboardMode":0,"position":[0,0,0],"rotation":[-1.5708,0,0],"scaling":[1,1,1],"isVisible":true,"isEnabled":true,"pickable":false
+,"positions":[47.106,-15.5731,0,47.106,-215.5731,0,-52.894,-215.5731,0,-52.894,-15.5731,0]
+,"normals":[0,0,1,0,0,1,0,0,1,0,0,1]
+,"tangents":[1,0,0,1,1,0,0,1,1,0,0,1,1,0,0,1]
+,"uvs":[1,0,1,1,0,1,0,0]
+,"indices":[0,1,2,3,0,2]
+,"subMeshes":[{"materialIndex":0,"verticesStart":0,"verticesCount":4,"indexStart":0,"indexCount":6}]
+,"instances":[]}
+]
+}
